@@ -21,6 +21,17 @@ How does it look like
 
 Most colors you see are from vim though.
 
+Download
+--------
+
+You can download solarized for other uses from the main [Solarized repository].
+The current version of these files can be found in the [solarized-xmonad repository],
+not that this file will change much.
+
+[Solarized homepage]:          http://ethanschoonover.com/solarized
+[Solarized repository]:        https://github.com/altercation/solarized
+[solarized-xmonad repository]: https://github.com/ibotty/solarized-xmonad
+
 How to configure XMonad to use them
 -----------------------------------
 
